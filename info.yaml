@@ -28,7 +28,7 @@ pinout:
   # Outputs
   uo[0]: "Player 1 Win"
   uo[1]: "Player 2 Win"
-  uo[2]: "Cheating"
+  uo[2]: ""
   uo[3]: ""
   uo[4]: ""
   uo[5]: ""
