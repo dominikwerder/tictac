@@ -75,6 +75,9 @@ As soon as one player filled one row, the game ends.
 |   0     |    0    |    1    |   0     |    0    |    0    |    1    |    1    |   1    | 
 |   0     |    0    |    0    |   1     |    0    |    0    |    1    |    1    |   1    | 
 
+
+For all other configuerations: output = 0
+
 ## How to test
 
 Explain how to use your project
