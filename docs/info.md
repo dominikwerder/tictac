@@ -76,11 +76,11 @@ As soon as one player filled one row, the game ends.
 |   0     |    0    |    0    |   1     |    0    |    0    |    1    |    1    |   1    | 
 
 
-For all other configuerations: output = 0
+For all other configurations: output = 0
 
 ## How to test
 
-Explain how to use your project
+Set input 1 , inout 2 and input 5 to 1 and all other to 0, the output should be 1.
 
 ## External hardware
 
